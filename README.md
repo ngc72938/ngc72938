@@ -1,19 +1,42 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JongGeunKwon&fontSize=50&animation=twinkling)
 
-<h3 align="center">Tech Stack</h3>
-
+<h3 align="center">Main Stack</h3> 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/SpringCloud-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
-</p>
+    <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=plastic&logo=Kotlin&logoColor=white"/></a>&nbsp
+    <br> 
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/SpringCloud-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/SpringData-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/SpringBatch-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>&nbsp 
+    <br> 
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=MariaDB&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=Oracle&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=PostgreSQL&logoColor=white"/></a>&nbsp 
+    <br> 
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=Redis&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white"/></a>&nbsp
+    <br> 
+    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white"/></a>&nbsp
+    <br>
+</p> 
+
+<h3 align="center">Sub Stack</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=black"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=black"/></a>&nbsp
+    <br> 
+    <img src="https://img.shields.io/badge/React-61DAF8?style=plastic&logo=React&logoColor=black"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=black"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Electron-47848F?style=plastic&logo=Electron&logoColor=black"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=black"/></a>&nbsp
+    <br> 
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=black"/></a>&nbsp
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=black"/></a>&nbsp
+    <br> 
+</p> 
 
 <br><br>
 <h3 align="center">Contact</h3>
