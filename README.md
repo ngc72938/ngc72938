@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JongGeunKwon&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JongGeunKwon&fontSize=50&animation=twinkling) 
 
+<h3 align="center">Backend-developer</h3> 
 <h3 align="center">Stack</h3> 
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>&nbsp 
