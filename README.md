@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JongGeunKwon&fontSize=50&animation=twinkling)
 
-<h3 align="center">Main Stack</h3> 
+<h3 align="center">Stack</h3> 
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Kotlin-0095D5?style=plastic&logo=Kotlin&logoColor=white"/></a>&nbsp
@@ -19,12 +19,7 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white"/></a>&nbsp
     <br> 
     <img src="https://img.shields.io/badge/aws-333664?style=plastic&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-    <br>
-</p> 
-
-<h3 align="center">Sub Stack</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=black"/></a>&nbsp 
+    <br> <img src="https://img.shields.io/badge/Python-3766AB?style=plastic&logo=Python&logoColor=black"/></a>&nbsp 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black"/></a>&nbsp 
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=TypeScript&logoColor=black"/></a>&nbsp
     <br> 
@@ -35,8 +30,9 @@
     <br> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=black"/></a>&nbsp
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=black"/></a>&nbsp
-    <br> 
+    <br>     
 </p> 
+
 
 <br><br>
 <h3 align="center">Contact</h3>
