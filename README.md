@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JongGeunKwon&fontSize=50&animation=twinkling) 
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=ngc72938)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="center">Backend-developer</h3> 
 <h3 align="center">Stack</h3> 
 <p align="center">
