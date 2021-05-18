@@ -30,6 +30,8 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=black"/>&nbsp
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=black"/>&nbsp
     <br>     
+    <br> 
+    <br> 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ngc72938&repo=github-readme-stats" /> 
     <br> 
     <br> 
