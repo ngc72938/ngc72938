@@ -1,8 +1,8 @@
 <h3 align="center">Backend-developer</h3> 
 <h3 align="center">Stack</h3> 
 <p align="center">
-    <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=plastic&logo=Kotlin&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/>&nbsp 
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=plastic&logo=Kotlin&logoColor=white"/>&nbsp
     <br> 
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/SpringCloud-6DB33F?style=plastic&logo=Spring&logoColor=white"/></a>&nbsp 
@@ -31,6 +31,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=black"/></a>&nbsp
     <br>     
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ngc72938&repo=github-readme-stats" /> 
+    <br> 
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngc72938&layout=compact&repo=github-readme-stats" /> 
 </p> 
 
