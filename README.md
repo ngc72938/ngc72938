@@ -1,4 +1,8 @@
 <h3 align="center">Backend-developer</h3> 
+
+- 🔭 I’m currently working on optatumplatform
+- 🌱 I’m currently learning Spring-cloud & MSA Architecture 
+
 <h3 align="center">Stack</h3> 
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/>&nbsp 
