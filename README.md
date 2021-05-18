@@ -1,10 +1,3 @@
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ngc72938&repo=github-readme-stats" /> 
-</a> 
-<br> 
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngc72938&layout=compact&repo=github-readme-stats" /> 
-</a> 
 <h3 align="center">Backend-developer</h3> 
 <h3 align="center">Stack</h3> 
 <p align="center">
@@ -37,6 +30,8 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=black"/></a>&nbsp
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=black"/></a>&nbsp
     <br>     
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ngc72938&repo=github-readme-stats" /> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngc72938&layout=compact&repo=github-readme-stats" /> 
 </p> 
 
 
