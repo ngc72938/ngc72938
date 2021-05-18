@@ -1,8 +1,5 @@
-<h3 align="center"> 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=ngc72938)](https://github.com/anuraghazra/github-readme-stats) 
-</h3> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngc72938&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <h3 align="center">Backend-developer</h3> 
 <h3 align="center">Stack</h3> 
