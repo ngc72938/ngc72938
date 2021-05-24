@@ -38,10 +38,6 @@
     <br> 
     <br> 
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ngc72938&repo=github-readme-stats" /> 
-    <br> 
-    <br> 
-    <br> 
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngc72938&layout=compact&repo=github-readme-stats" /> 
 </p> 
 <br>
 <h3 align="center">Contact</h3>
