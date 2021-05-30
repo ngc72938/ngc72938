@@ -1,7 +1,5 @@
 <h3 align="center">Backend-developer</h3> 
-<h4 align="center">
-- 🔭 I’m currently working on optatumplatform 
-<br>     
+<h4 align="center">   
 - 🌱 I’m currently learning Spring-cloud & MSA Architecture 
 </h4>
 <h3 align="center">Stack</h3> 
